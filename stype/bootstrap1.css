@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.body{
+    font-size:12px;
+
+}
+.center-block{/*居中对齐*/
+    background-color: white;
+    width: 460px;
+    padding: 10px 10px 10px 10px;
+}
+
+.title{
+    font-weight:normal;
+    font-size:30px;
+
+}
+.form{
+    padding-top:30px;
+}
+.form-group{
+    font-size:15px;
+
+}
+.user-input1{
+    border: 2px solid red;
+    border:0;
+    border-bottom: solid #e6e6e6 1px;
+    box-shadow: none;/*使元素达到一种阴影，有立体感*/
+    padding-left:0px;
+    border-radius: 0px;
+    outline: none;
+}
+.user-input2{
+    border: 2px solid red;
+    border:0;
+    border-bottom: solid #e6e6e6 1px;
+    box-shadow: none;/*使元素达到一种阴影，有立体感*/
+    padding-left:0px;
+    padding-right: 60px;
+    border-radius: 0px;
+    outline: none;
+}
+/* .user-input focus{
+   box-shadow: none;
+   outline: none;
+   border-bottom: solid #e6e6e6 1px;
+} */
+.rember-pass{
+    margin-top: -20px;
+    color:#77b9f3;
+}
+.rember-pass:hover{
+    text-decoration: none;
+    color:#C6E2FF;
+}
+.btn{
+   margin-top:20px;
+   height:50px;
+}
+.link-foot {
+    margin-top: 15px;   
+}
+.link-foot:hover{
+    color: #77b9f3;
+}
+.main-right:hover{
+    text-decoration: none;
+    color:#C6E2FF;
+}
+.main-left:hover{
+    text-decoration: none;
+    color:#C6E2FF;
+}
